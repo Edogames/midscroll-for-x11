@@ -43,6 +43,6 @@ Here's the code for that
 [Desktop Entry]
 Type=Application
 Name=midscroll
-Exec=/home/THEIRUSER/.local/bin/midscroll
+Exec=sh -c "\$HOME/.local/bin/midscroll"
 NoDisplay=true
 ```
